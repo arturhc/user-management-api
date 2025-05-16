@@ -16,6 +16,8 @@ documentación **Swagger/OpenAPI** para explorar y probar la API.
 **Demo Beanstalk (ejemplo)**  
 <http://user-management-api.us-east-1.elasticbeanstalk.com/swagger-ui/index.html>
 
+![image](https://github.com/user-attachments/assets/cfa94873-324e-4457-b380-6b8e3f11fbed)
+
 ---
 
 ## 🚀 Funcionalidades Principales
